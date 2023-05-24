@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:keypad-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -646,12 +647,56 @@ Text GLabel 5300 4500 0    50   Input ~ 0
 ROW1
 Text GLabel 4000 3300 2    50   Input ~ 0
 ROW1
-Text GLabel 4000 4600 2    50   Input ~ 0
+Text GLabel 4000 4500 2    50   Input ~ 0
 COL2
 Text GLabel 4000 3100 2    50   Input ~ 0
 COL1
-Text GLabel 4000 4500 2    50   Input ~ 0
+Text GLabel 4000 4600 2    50   Input ~ 0
 ROW0
 Text GLabel 4000 3200 2    50   Input ~ 0
 COL0
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 646EB28A
+P 2300 1200
+F 0 "H?" H 2400 1246 50  0000 L CNN
+F 1 "MountingHole" H 2400 1155 50  0000 L CNN
+F 2 "" H 2300 1200 50  0001 C CNN
+F 3 "~" H 2300 1200 50  0001 C CNN
+	1    2300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 646EBB7F
+P 3550 1200
+F 0 "H?" H 3650 1246 50  0000 L CNN
+F 1 "MountingHole" H 3650 1155 50  0000 L CNN
+F 2 "" H 3550 1200 50  0001 C CNN
+F 3 "~" H 3550 1200 50  0001 C CNN
+	1    3550 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 646EBECE
+P 4850 1200
+F 0 "H?" H 4950 1246 50  0000 L CNN
+F 1 "MountingHole" H 4950 1155 50  0000 L CNN
+F 2 "" H 4850 1200 50  0001 C CNN
+F 3 "~" H 4850 1200 50  0001 C CNN
+	1    4850 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 646EC1E6
+P 5950 1200
+F 0 "H?" H 6050 1246 50  0000 L CNN
+F 1 "MountingHole" H 6050 1155 50  0000 L CNN
+F 2 "" H 5950 1200 50  0001 C CNN
+F 3 "~" H 5950 1200 50  0001 C CNN
+	1    5950 1200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
