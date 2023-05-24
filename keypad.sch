@@ -646,12 +646,12 @@ Text GLabel 5300 4500 0    50   Input ~ 0
 ROW1
 Text GLabel 4000 3300 2    50   Input ~ 0
 ROW1
-Text GLabel 4000 3100 2    50   Input ~ 0
+Text GLabel 4000 4500 2    50   Input ~ 0
 COL2
-Text GLabel 4000 3200 2    50   Input ~ 0
+Text GLabel 4000 3100 2    50   Input ~ 0
 COL1
 Text GLabel 4000 4600 2    50   Input ~ 0
 ROW0
-Text GLabel 4000 4500 2    50   Input ~ 0
+Text GLabel 4000 3200 2    50   Input ~ 0
 COL0
 $EndSCHEMATC
