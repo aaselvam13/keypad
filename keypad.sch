@@ -462,12 +462,196 @@ Wire Wire Line
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 64704DD4
-P 5700 3600
-F 0 "MX?" H 5733 3823 60  0000 C CNN
-F 1 "MX-NoLED" H 5733 3749 20  0000 C CNN
-F 2 "" H 5075 3575 60  0001 C CNN
-F 3 "" H 5075 3575 60  0001 C CNN
-	1    5700 3600
+P 5850 3600
+F 0 "MX?" H 5883 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 5883 3749 20  0000 C CNN
+F 2 "" H 5225 3575 60  0001 C CNN
+F 3 "" H 5225 3575 60  0001 C CNN
+	1    5850 3600
 	1    0    0    -1  
 $EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64708931
+P 5850 4150
+F 0 "MX?" H 5883 4373 60  0000 C CNN
+F 1 "MX-NoLED" H 5883 4299 20  0000 C CNN
+F 2 "" H 5225 4125 60  0001 C CNN
+F 3 "" H 5225 4125 60  0001 C CNN
+	1    5850 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64709440
+P 6400 3600
+F 0 "MX?" H 6433 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 6433 3749 20  0000 C CNN
+F 2 "" H 5775 3575 60  0001 C CNN
+F 3 "" H 5775 3575 60  0001 C CNN
+	1    6400 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 64709B8A
+P 6400 4150
+F 0 "MX?" H 6433 4373 60  0000 C CNN
+F 1 "MX-NoLED" H 6433 4299 20  0000 C CNN
+F 2 "" H 5775 4125 60  0001 C CNN
+F 3 "" H 5775 4125 60  0001 C CNN
+	1    6400 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6470A559
+P 6950 3600
+F 0 "MX?" H 6983 3823 60  0000 C CNN
+F 1 "MX-NoLED" H 6983 3749 20  0000 C CNN
+F 2 "" H 6325 3575 60  0001 C CNN
+F 3 "" H 6325 3575 60  0001 C CNN
+	1    6950 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 6470AC44
+P 6950 4150
+F 0 "MX?" H 6983 4373 60  0000 C CNN
+F 1 "MX-NoLED" H 6983 4299 20  0000 C CNN
+F 2 "" H 6325 4125 60  0001 C CNN
+F 3 "" H 6325 4125 60  0001 C CNN
+	1    6950 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6470E23D
+P 5700 3850
+F 0 "D?" V 5746 3782 50  0000 R CNN
+F 1 "D_Small" V 5655 3782 50  0000 R CNN
+F 2 "" V 5700 3850 50  0001 C CNN
+F 3 "~" V 5700 3850 50  0001 C CNN
+	1    5700 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6470FC65
+P 6250 3850
+F 0 "D?" V 6296 3782 50  0000 R CNN
+F 1 "D_Small" V 6205 3782 50  0000 R CNN
+F 2 "" V 6250 3850 50  0001 C CNN
+F 3 "~" V 6250 3850 50  0001 C CNN
+	1    6250 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64710044
+P 6800 3850
+F 0 "D?" V 6846 3782 50  0000 R CNN
+F 1 "D_Small" V 6755 3782 50  0000 R CNN
+F 2 "" V 6800 3850 50  0001 C CNN
+F 3 "~" V 6800 3850 50  0001 C CNN
+	1    6800 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64710419
+P 6800 4400
+F 0 "D?" V 6846 4332 50  0000 R CNN
+F 1 "D_Small" V 6755 4332 50  0000 R CNN
+F 2 "" V 6800 4400 50  0001 C CNN
+F 3 "~" V 6800 4400 50  0001 C CNN
+	1    6800 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 64710CE9
+P 6250 4400
+F 0 "D?" V 6296 4332 50  0000 R CNN
+F 1 "D_Small" V 6205 4332 50  0000 R CNN
+F 2 "" V 6250 4400 50  0001 C CNN
+F 3 "~" V 6250 4400 50  0001 C CNN
+	1    6250 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 6471111D
+P 5700 4400
+F 0 "D?" V 5746 4332 50  0000 R CNN
+F 1 "D_Small" V 5655 4332 50  0000 R CNN
+F 2 "" V 5700 4400 50  0001 C CNN
+F 3 "~" V 5700 4400 50  0001 C CNN
+	1    5700 4400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 4100 6000 3550
+Connection ~ 6000 3550
+Wire Wire Line
+	6000 3550 6000 3100
+Wire Wire Line
+	6550 4100 6550 3550
+Connection ~ 6550 3550
+Wire Wire Line
+	6550 3550 6550 3100
+Wire Wire Line
+	7100 4100 7100 3550
+Connection ~ 7100 3550
+Wire Wire Line
+	7100 3550 7100 3100
+Wire Wire Line
+	6900 3750 6800 3750
+Wire Wire Line
+	6900 4300 6800 4300
+Wire Wire Line
+	6350 4300 6250 4300
+Wire Wire Line
+	6350 3750 6250 3750
+Wire Wire Line
+	5800 3750 5700 3750
+Wire Wire Line
+	5800 4300 5700 4300
+Wire Wire Line
+	6800 3950 6250 3950
+Connection ~ 5700 3950
+Wire Wire Line
+	5700 3950 5300 3950
+Connection ~ 6250 3950
+Wire Wire Line
+	6250 3950 5700 3950
+Wire Wire Line
+	6800 4500 6250 4500
+Connection ~ 5700 4500
+Wire Wire Line
+	5700 4500 5300 4500
+Connection ~ 6250 4500
+Wire Wire Line
+	6250 4500 5700 4500
+Text GLabel 6000 3100 1    50   Input ~ 0
+COL0
+Text GLabel 6550 3100 1    50   Input ~ 0
+COL1
+Text GLabel 7100 3100 1    50   Input ~ 0
+COL2
+Text GLabel 5300 3950 0    50   Input ~ 0
+ROW0
+Text GLabel 5300 4500 0    50   Input ~ 0
+ROW1
+Text GLabel 4000 3300 2    50   Input ~ 0
+ROW1
+Text GLabel 4000 3100 2    50   Input ~ 0
+COL2
+Text GLabel 4000 3200 2    50   Input ~ 0
+COL1
+Text GLabel 4000 4600 2    50   Input ~ 0
+ROW0
+Text GLabel 4000 4500 2    50   Input ~ 0
+COL0
 $EndSCHEMATC
