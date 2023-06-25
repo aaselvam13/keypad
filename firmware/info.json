@@ -1,12 +1,12 @@
 {
-  "keyboard_name": "ScuffedPad",
+  "keyboard_name": "GPad",
   "manufacturer": "aprpafocks",
   "url": "",
   "maintainer": "qmk",
   "usb": {
-    "vid": "",
-    "pid": "",
-    "device_version": "0.0.1"
+    "vid": "0xFEED",
+    "pid": "0x0007",
+    "device_version": "1.0.1"
   },
   "matrix_pins": {
     "cols": ["B5", "B4", "D6"],
